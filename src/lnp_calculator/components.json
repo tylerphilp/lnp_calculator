@@ -1,0 +1,20 @@
+{
+  "compound_a": {
+    "component_1": "A",
+    "component_2": "B",
+    "component_3": "C",
+    "component_4": "D"
+  },
+  "compound_b": {
+    "component_1": "E",
+    "component_2": "F",
+    "component_3": "G",
+    "component_4": "H"
+  },
+  "compound_c": {
+    "component_1": "I",
+    "component_2": "J",
+    "component_3": "K",
+    "component_4": "L"
+  }
+}

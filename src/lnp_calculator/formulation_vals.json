@@ -1,0 +1,62 @@
+{
+  "A": {
+    "mol_weight": 1,
+    "stock_con": 2,
+    "molar_ratio": 3
+  },
+  "B": {
+    "mol_weight": 1,
+    "stock_con": 2,
+    "molar_ratio": 3
+  },
+  "C": {
+    "mol_weight": 1,
+    "stock_con": 2,
+    "molar_ratio": 3
+  },
+  "D": {
+    "mol_weight": 1,
+    "stock_con": 2,
+    "molar_ratio": 3
+  },
+  "E": {
+    "mol_weight": 1,
+    "stock_con": 2,
+    "molar_ratio": 3
+  },
+  "F": {
+    "mol_weight": 1,
+    "stock_con": 2,
+    "molar_ratio": 3
+  },
+  "G": {
+    "mol_weight": 1,
+    "stock_con": 2,
+    "molar_ratio": 3
+  },
+  "H": {
+    "mol_weight": 1,
+    "stock_con": 2,
+    "molar_ratio": 3
+  },
+  "I": {
+    "mol_weight": 1,
+    "stock_con": 2,
+    "molar_ratio": 3
+  },
+  "J": {
+    "mol_weight": 1,
+    "stock_con": 2,
+    "molar_ratio": 3
+  },
+  "K": {
+    "mol_weight": 1,
+    "stock_con": 2,
+    "molar_ratio": 3
+  },
+  "L": {
+    "mol_weight": 1,
+    "stock_con": 2,
+    "molar_ratio": 3
+  }
+}
